@@ -1,0 +1,20 @@
+name: Medusa
+desc: The Open Source Shopify Alternative 
+site: https://medusajs.com/
+tags:
+  - javascript
+  - typescript
+  - reactjs
+  - web
+  - webshop
+  - storefront
+  - ecommerce
+  - e-commerce
+  - headless
+  - composable
+  - developer-first
+  - bespoke
+  - dev-tooling
+upforgrabs:
+  name: help wanted
+  link: https://github.com/medusajs/medusa/issues
